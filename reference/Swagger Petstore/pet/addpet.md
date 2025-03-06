@@ -10,3 +10,4 @@ next:
       title: Getting Started with BidiDemo1024
       type: basic
 ---
+Here is some markdown syncing from ReadMe
