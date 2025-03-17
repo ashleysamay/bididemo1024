@@ -1,8 +1,8 @@
 ---
 title: Getting Started with ReadMe
 excerpt: >-
-  This page will help you get started with BidiDemo1024. You'll be up and
-  running in a jiffy!
+  This page will help you get started with ReadMe. You'll be up and running in a
+  jiffy!
 deprecated: false
 hidden: false
 metadata:
