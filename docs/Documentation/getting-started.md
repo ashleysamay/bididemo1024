@@ -22,6 +22,21 @@ What you're looking at right now is what we call our **Guides**. It's a free-for
 
 Want to ease your users into it with some fancy marketing pages? You can enable a **[Landing Page](https://docs.readme.com/main/docs/landing-page)**, and write as much HTML as you want to make it look like your brand.
 
+<br />
+
+<Terminal>
+  {`
+    $ npx run command
+    This is the response
+
+    $ inputs start with a dollar sign
+    outputs start with no prefix
+    and can be multiline
+  `}
+</Terminal>
+
+<br />
+
 # 🚦 Interactive API Docs
 
 If you don't have an API, then no worries! ReadMe is great for any sort of documentation. But if you have an API, there are a few features to make your experience with ReadMe (and your users' experience with your developer hub!) a magical one:
