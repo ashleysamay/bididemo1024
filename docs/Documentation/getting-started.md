@@ -14,7 +14,7 @@ next:
 ---
 Welcome to ReadMe! :owlbert:
 
-You're on your way to building an awesome developer hub! Here's some of the things you'll want to check out. Hi there! Adding new content for a demo.
+You're on your way to building an awesome developer hub! Here's some of the things you'll want to check out.
 
 # 📝 Customize your docs
 
