@@ -13,17 +13,15 @@ metadata:
 
 <br />
 
-<br />
-
 ### The terminal below is a custom component
 
 <Terminal>
   {`
-          $ npx run command
-          This is the response
+              $ npx run command
+              This is the response
 
-          $ inputs start with a dollar sign
-          outputs start with no prefix
-          and can be multiline
-        `}
+              $ inputs start with a dollar sign
+              outputs start with no prefix
+              and can be multiline
+            `}
 </Terminal>
