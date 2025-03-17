@@ -1,5 +1,5 @@
 ---
-title: Getting Started with BidiDemo1024
+title: Getting Started with ReadMe
 excerpt: >-
   This page will help you get started with BidiDemo1024. You'll be up and
   running in a jiffy!
