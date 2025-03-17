@@ -14,13 +14,11 @@ next:
 ---
 Welcome to ReadMe! :owlbert:
 
-You're on your way to building an awesome developer hub! Here's some of the things you'll want to check out. Hi there!
+You're on your way to building an awesome developer hub! Here's some of the things you'll want to check out. 
 
 # 📝 Customize your docs
 
 What you're looking at right now is what we call our **Guides**. It's a free-form place to write to your heart's content! And the best part is... you aren't alone! Your users can contribute (with your approval, don't worry!) using the **[Suggested Edits](https://docs.readme.com/main/docs/suggested-edits)** feature on every page. It's like GitHub Pull Requests, but for text!
-
-Hi there creating content for a demo!
 
 Want to ease your users into it with some fancy marketing pages? You can enable a **[Landing Page](https://docs.readme.com/main/docs/landing-page)**, and write as much HTML as you want to make it look like your brand.
 
