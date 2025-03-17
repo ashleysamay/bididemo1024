@@ -53,3 +53,14 @@ ReadMe will provide a getUser function that takes two parameters, byEmail and by
 <!-- javascript@ -->
 
 When a user logs into ReadMe we'll make a request with their email address to get more information. This allows us to show their API Logs and API Keys directly in the documentation.
+
+# 3. Fetch User via API Key
+
+<!-- javascript@ -->
+
+
+
+# 4. Return User
+
+<!-- javascript@ -->
+
