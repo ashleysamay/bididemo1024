@@ -15,3 +15,5 @@ Acclaimed as one of the world's most beautiful bridges, there are many different
 Want to keep your eyes fully on the surroundings? Check out our Audio-only Guide for Golden Gate Bridge Walk
 
 <Counter />
+
+<Counter />
