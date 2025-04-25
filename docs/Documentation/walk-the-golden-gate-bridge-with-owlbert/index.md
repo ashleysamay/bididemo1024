@@ -13,3 +13,5 @@ metadata:
 Acclaimed as one of the world's most beautiful bridges, there are many different elements to the Golden Gate Bridge that make it unique. With its tremendous towers, sweeping cables, and great span, the Bridge is a sensory beauty and engineering wonder featuring color, sound and light.
 
 Want to keep your eyes fully on the surroundings? Check out our Audio-only Guide for Golden Gate Bridge Walk
+
+<Counter />
