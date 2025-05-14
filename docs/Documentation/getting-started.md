@@ -14,7 +14,7 @@ next:
 ---
 Welcome to ReadMe! :owlbert: Hello 
 
-You're on your way to building an awesome developer hub! Here's some of the things you'll want to check out. Editing version 2 to see it update in Github. Hi there!
+You're on your way to building an awesome developer hub! Here's some of the things you'll want to check out. Editing version 2 to see it update in Github. Hi there! Editing from github branch v4.0. 
 
 # 📝 Customize your docs
 
