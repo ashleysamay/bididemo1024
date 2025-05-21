@@ -12,9 +12,15 @@ metadata:
 next:
   description: ''
 ---
-Welcome to ReadMe! :owlbert: Hello 
+Welcome to ReadMe! :owlbert: Hello
 
 You're on your way to building an awesome developer hub! Here's some of the things you'll want to check out. Editing version 2 to see it update in Github. Hi there!
+
+<Accordion title="My Accordion Title" icon="fa-info-circle">
+  Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** Ut enim
+  ad minim veniam, quis nostrud exercitation ullamco. Excepteur sint
+  occaecat cupidatat non proident!
+</Accordion>
 
 # 📝 Customize your docs
 
