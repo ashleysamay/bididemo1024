@@ -36,7 +36,9 @@ You're on your way to building an awesome developer hub! Here's some of the thin
   </Card>
 </Cards>
 
-<br />
+# This is a custom component
+
+<IconList title="Example Card" text="Make sure to sign up for a free account" icon="fa-user" href="#" />
 
 # 📝 Customize your docs
 
