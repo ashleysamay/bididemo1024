@@ -1,0 +1,26 @@
+---
+name: IconList
+---
+export const IconList = ({ href, icon, target, text, title }) => {
+  const Tag = href ? "a" : "div";
+	return (
+    <Tag className={`group flex flex-col sm:flex-row gap-5 px-5 py-1 max-w-190 shadow:sm text-[var(--color-text-default)]! ${href && "hover:border-[var(--color-link-primary)]"} rounded-xl decoration-[var(--color-bg-page)]! transition-border duration-[var(--transition-fast)] ease-[var(--transition-timing)]`} href={href}>
+      {icon && 
+        <div className={'flex items-center justify-center shrink-0 w-10 h-10 content-center bg-linear-to-r from-purple-100 via-violet-50 to-purple-100 rounded-lg'}>
+         	<i className={`fa-solid ${icon} text-xl text-violet-500 opacity-100`}></i>
+        </div>
+      }
+
+      <div>
+    	  <div className="flex gap-2 items-center mb-[2px]">
+  	      <strong className={`text-lg ${href && "group-hover:text-[var(--color-link-primary)] transition-color duration-[var(--transition-fast)] ease-[var(--transition-timing)]"}`}>{title}</strong>
+        {href && <i className={`fa-solid fa-arrow-right text-sm text-[var(--color-text-minimum-icon)] group-hover:translate-x-[3px] group-hover:translate-y-[0px] transition-transform duration-[var(--transition-fast)] ease-[var(--transition-timing)]`}></i>}
+	      </div>
+	     
+        <div className="text-[var(--color-text-muted)]">{text}</div>
+      </div>
+    </Tag>
+  );
+};
+
+<IconList title="Example Card" text="Make sure to sign up for a free account" icon="fa-user" href="#" />
