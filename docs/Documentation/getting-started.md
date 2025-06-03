@@ -1,7 +1,7 @@
 ---
-title: Getting Started with BidiDemo1024
+title: Getting Started with Refactored
 excerpt: >-
-  This page will help you get started with BidiDemo1024. You'll be up and
+  This page will help you get started with the new experience. You'll be up and
   running in a jiffy!
 deprecated: false
 hidden: false
